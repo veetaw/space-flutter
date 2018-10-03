@@ -6,3 +6,4 @@ Here it is how it looks like (it's bad, ik, but the goal was to build it quickly
 ![](.github/screen.jpg)
 
 ### telegram group: [@dartlang_group](https://t.me/dartlang_group)
+### italian group: [@dartlangita](https://t.me/dartlangita)
